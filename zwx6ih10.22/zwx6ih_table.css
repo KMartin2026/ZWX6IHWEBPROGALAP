@@ -1,0 +1,37 @@
+
+.table {
+width: 450px;
+height: 525px;
+border-collapse: collapse;
+font-family: verdana;
+font-weight: bold;
+}
+.gray{
+    background-color: cccccc;
+    font-style: italic;
+    text-align: center; 
+    height: 75px;
+
+}
+.red{
+    background-color: red;
+}
+.beige {
+    background-color: #ffff88;
+}
+.mageta{
+    background-color: #ffff00;
+    text-alig: center;
+}
+.scroll{
+    overflow: visible;
+     overflow-x: scroll;
+      overflow-x: scroll;
+      height: 150px;
+      width: 150px;
+      text-alig: justify;
+}
+.center {
+  text-alig: center;  
+}
+
